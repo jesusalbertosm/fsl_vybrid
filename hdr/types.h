@@ -1,6 +1,7 @@
 #ifndef __TYPES_HDR__
 #define __TYPES_HDR__
 
+
 typedef unsigned char  uint8;
 typedef signed char    sint8;
 
