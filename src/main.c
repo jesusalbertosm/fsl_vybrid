@@ -9,10 +9,6 @@ void main(void)
 {
 
 
-
-
-
-
 IOMUXC->SINGLE.PTB0 = IOMUXC_PTB0_DSE(0x1)| IOMUXC_PTB0_OBE_MASK; //enable GPIO output for PTB0
 IOMUXC->SINGLE.PTB3 = IOMUXC_PTB3_DSE(0x1)| IOMUXC_PTB3_OBE_MASK; //enable GPIO output for PTB3
 
