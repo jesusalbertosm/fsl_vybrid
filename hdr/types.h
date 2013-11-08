@@ -40,8 +40,6 @@ typedef signed int     sint32_t;
 
  #define     __IO    volatile             /*!< Defines 'read / write' permissions              */
 
-
-
 __IO uint32_t PTA6;
 
 #endif
